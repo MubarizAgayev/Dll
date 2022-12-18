@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\bin\Debug\net6.0\AccesModifiersDll.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\bin\Debug\net6.0\AccesModifiersDll.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\bin\Debug\net6.0\AccesModifiersDll.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\obj\Debug\net6.0\AccesModifiersDll.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\obj\Debug\net6.0\AccesModifiersDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\obj\Debug\net6.0\AccesModifiersDll.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\obj\Debug\net6.0\AccesModifiersDll.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\obj\Debug\net6.0\AccesModifiersDll.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\obj\Debug\net6.0\AccesModifiersDll.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\obj\Debug\net6.0\refint\AccesModifiersDll.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\obj\Debug\net6.0\AccesModifiersDll.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\AccesModifiers\AccesModifiers\AccesModifiersDll\obj\Debug\net6.0\ref\AccesModifiersDll.dll
